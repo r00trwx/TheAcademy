@@ -40,6 +40,9 @@ URL = "teacher"
 name = "teacher"
 weight = 5
 [[menu.main]]
+name = "Test-Page"
+weight = 6
+[[menu.main]]
 URL = "event"
 name = "event"
 parent = "Pages"
